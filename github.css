@@ -1,3 +1,9 @@
 .number {
         background-color: aqua;
+        padding: 10px;
+}
+
+.number2{
+    background-color: blue;
+    padding: 10px;
 }
